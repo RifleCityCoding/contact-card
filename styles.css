@@ -10,7 +10,7 @@
     margin-bottom: auto;
 }
 .fa-facebook {
-    margin-bottom: 8%;
+    margin-bottom: 7%;
     margin-left: 5%;
 }
 .rotate-on-hover {
@@ -20,3 +20,17 @@
   .rotate-on-hover:hover {
     transform: rotate(360deg);
   }
+
+  .fa-github {
+    margin-bottom: 7%;
+    margin-left: 15%;
+    
+  }
+.fa-linkedin {
+    margin-bottom: 7%;
+    margin-left: 25%;
+}
+.fa-phone {
+    margin-bottom: 8%;
+    margin-left: 35%;
+}
